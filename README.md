@@ -15,3 +15,8 @@ By default this package maps ports 40303 (tcp & udp) and 26656/tcp to the DAppNo
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
+
+
+## Sovereign admission alignment
+
+This repository remains an independent infrastructure/build boundary. Shared trust and interoperability semantics are documented in [`docs/SOVEREIGN_ADMISSION_ALIGNMENT.md`](docs/SOVEREIGN_ADMISSION_ALIGNMENT.md). Sovereign alignment does not merge repositories, builds, deployments, security domains, or runtime authority.
