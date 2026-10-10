@@ -1,0 +1,21 @@
+{
+  "schema": "maevn.local-source-ownership.v1",
+  "effective_date": "2026-10-10",
+  "system_id": "POL-NODE-DAPPNODE",
+  "repository": "House-Of-Drip-Online/dappnode-polygon",
+  "owning_purpose": "Polygon DAppNode package infrastructure",
+  "canonical_roots": [
+    "docker-compose.yml",
+    "dappnode_package.json",
+    "setup-wizard.yml",
+    "docs/"
+  ],
+  "legacy_or_divergent_state": "IN_DOMAIN",
+  "divergence": "Infrastructure deployer, not financial or creative runtime.",
+  "master_registry_repository": "House-Of-Drip-Online/-MAEVN-HOLDINGS",
+  "master_registry_path": "topology/REPOSITORY_SOURCE_OWNERSHIP_2026-10-10.json",
+  "master_registry_blob_sha": "83bec76419519f0957ddf74f5b9d6b5e0f7c36dd",
+  "source_authority_invariant": "This system repository owns its own source only; master registry indexes, does not replace, its individual technical canon.",
+  "execution_authority_invariant": "No signing, catalog mutation or certification is inherited through co-ownership or source copies.",
+  "migration_status": "PROPOSED_STAGED_NOT_DEPLOYED"
+}
