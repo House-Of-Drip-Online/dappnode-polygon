@@ -1,5 +1,8 @@
 # Polygon Node DAppNode package
 
+> **CURRENTNESS WARNING — 2026-10-11:** This repository is a historical Polygon node deployment source, **not an operating, synchronized, production-certified Polygon RPC node**. DAppNode Bor/Heimdall images, snapshot and dependency versions are not independently verified against current Polygon PoS Heimdall-v2/Bor releases. Do not deploy its commands without the compatibility review in [NODE_READINESS_2026-10-11.md](docs/NODE_READINESS_2026-10-11.md). The original instructions below are retained for audit/history.
+
+
 [![DAppNodeStore Available](https://img.shields.io/badge/DAppNodeStore-Available-brightgreen.svg)](http://my.dappnode/#/installer/polygon.public.dappnode.eth)
 
 [![Polygon github](https://img.shields.io/badge/GithubRepo-blue.svg)](https://github.com/maticnetwork/launch) (Official)
