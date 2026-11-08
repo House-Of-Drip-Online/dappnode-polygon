@@ -1,5 +1,8 @@
 # Polygon Node DAppNode package
 
+> **2026 compatibility warning — historical DAppNode package only.** This repository still packages Bor `v0.2.14-tmp-span-hotfix`, Heimdall v1 `v0.2.8`, March 2022 snapshots and wildcard RPC bindings. **Do not deploy these files as a current Polygon PoS mainnet node.** The canonical, actively modernized OMEGA node deployment is [POL-mainnet-full-node/modern](https://github.com/House-Of-Drip-Online/POL-mainnet-full-node/tree/main/modern), using Bor v2.11.0 and Heimdall-v2 v0.13.2. This notice does not delete historical source, merge independent repositories or authorize replacement of the currently restoring node. The [comparison and disposition](https://github.com/House-Of-Drip-Online/POL-mainnet-full-node/blob/main/modern/docs/POLYGON_NODE_DAPPNODE_GAP_CLOSURE_20261108.md) identifies reusable concepts but **no compatible legacy binary or snapshot**.
+
+
 [![DAppNodeStore Available](https://img.shields.io/badge/DAppNodeStore-Available-brightgreen.svg)](http://my.dappnode/#/installer/polygon.public.dappnode.eth)
 
 [![Polygon github](https://img.shields.io/badge/GithubRepo-blue.svg)](https://github.com/maticnetwork/launch) (Official)
